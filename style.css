@@ -43,14 +43,14 @@
     transition: 0.5s ease;
     cursor: pointer;
 }
-.icons img:hover{
+/* .icons img:hover{
     transform: translateY(-5px);
 } 
  @media screen and (max-width:330px){
     #logo{
         font-size: 15px;
     }
-}
+} */
 /* navbar end */
 /* home section */
 .home{
@@ -93,13 +93,13 @@
     animation: changetext 10s infinite linear;
     font-weight: bold;
 }
-@keyframes changetext{
+/* @keyframes changetext{
     0%{content: "Birthday cake";}
     20%{content: "Chocolate cake";}
     50%{content: "Party cake";}
     60%{content: "Slice cake";}
     100%{content: "Cup cake";}
-}
+} */
 .content p{
     color: white;
     font-weight: bold;
@@ -111,7 +111,7 @@
     background-color: #573818;
     color: white;
 }
-@media screen and (max-width:800px){
+/* @media screen and (max-width:800px){
     .content h3{
         font-size: 50px;
     }
@@ -133,7 +133,7 @@
     .content h3{
         font-size: 30px;
     }
-}
+} */
 /* home section end */
 
 /* top cards */
@@ -197,7 +197,7 @@
     border-radius: 5px;
     cursor: pointer;
 }
-@media screen and (max-width:800px){
+/* @media screen and (max-width:800px){
     .banner .content h3{
         font-size: 50px;
     }
@@ -206,7 +206,7 @@
     .banner{
         height: 100vh;
     }
-}
+} */
 /* banner end */
 /* product cards */
 #product-cards h1{
@@ -346,7 +346,7 @@
     border: none;
     cursor: pointer;
 }
-@media screen and (max-width:1000px){
+/* @media screen and (max-width:1000px){
     #about p{
         font-size: 10px;
     }
@@ -355,7 +355,7 @@
     #about p{
         font-size: 20px;
     }
-}
+} */
 /* about */
 
 /* contact */
